@@ -1,0 +1,27 @@
+body
+{
+}
+#header
+{
+  width:cover;
+  height:80px;
+}
+
+.navbar
+{
+  border:1px solid black;
+  width:inherit;
+  background-color:rgba(0,0,0,.4);
+  height:25px;
+  color:white;
+}
+#header{
+  text-align: center;  
+  margin:0px 0px;
+}
+table{
+ background-color: #38d39f;
+  text-align: center;
+  width: 100%;
+  margin-top:0px;
+}
